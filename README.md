@@ -65,15 +65,12 @@ Develop a strong foundation in Python programming by solving practical exercises
 - Perform array indexing and slicing.
 - Apply mathematical and statistical operations.
 - Understand array dimensions, shapes, and data types.
-- Perform aggregation and numerical computations.
+
 
 **Pandas**
 - Create and work with Series and DataFrames.
 - Import and explore datasets.
 - Perform data selection, filtering, and indexing.
-- Handle missing values and duplicate records.
-- Apply sorting, grouping, and aggregation operations.
-- Perform basic data cleaning and manipulation.
 
 ## 💻 Tools and Technologies
 
